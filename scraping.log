@@ -1,0 +1,5 @@
+2025-08-26 23:38:20,601 - INFO - Web scraping session started. Total URLs: 2
+2025-08-26 23:42:16,569 - INFO - Web scraping session started. Total URLs: 2
+2025-08-26 23:42:28,211 - INFO - Scraped 2015_05 successfully.
+2025-08-26 23:42:41,408 - INFO - Scraped 2015_06 successfully.
+2025-08-26 23:42:41,418 - INFO - Web scraping session finished.
